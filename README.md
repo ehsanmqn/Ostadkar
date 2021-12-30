@@ -1,4 +1,4 @@
-The OstadKar interview project to demonestrating MongoDB experience
+A very simple project to working with MongoDB in Django
 
 ## Table of contents
 
